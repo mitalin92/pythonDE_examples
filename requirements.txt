@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+pymongo
+qdrant-client
+pydantic
+ruff
+mypy
+pre-commit
